@@ -42,13 +42,13 @@ Hi, I'm **Makoto**. I'm a passionate developer specializing in **Java** and **Mi
   <tr>
     <td width="50%">
       <a href="https://github.com/yukmakoto/next-rust-platform">
-        <h3 align="center">Next Rust Platform</h3>
+        <p align="center"><strong>Next Rust Platform</strong></p>
       </a>
       <p align="center">A high-performance community platform built with Next.js and Rust backend.</p>
     </td>
     <td width="50%">
       <a href="#">
-        <h3 align="center">Custom Bukkit Plugins</h3>
+        <p align="center"><strong>Custom Bukkit Plugins</strong></p>
       </a>
       <p align="center">Bespoke server-side plugins enhancing gameplay mechanics and server management.</p>
     </td>
