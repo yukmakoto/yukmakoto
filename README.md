@@ -45,12 +45,22 @@ Hi, I'm **Makoto**. I'm a passionate developer specializing in **Java** and **Mi
         <p align="center"><strong>Next Rust Platform</strong></p>
       </a>
       <p align="center">A high-performance community platform built with Next.js and Rust backend.</p>
+      <p align="center">
+        <a href="https://github.com/yukmakoto/next-rust-platform/stargazers">
+          <img src="https://img.shields.io/github/stars/yukmakoto/next-rust-platform?style=social" alt="Stars" />
+        </a>
+      </p>
     </td>
     <td width="50%">
-      <a href="#">
-        <p align="center"><strong>Custom Bukkit Plugins</strong></p>
+      <a href="https://github.com/yukmakoto/MatrixBC">
+        <p align="center"><strong>MatrixBC</strong></p>
       </a>
-      <p align="center">Bespoke server-side plugins enhancing gameplay mechanics and server management.</p>
+      <p align="center">A publicly available project demonstrating advanced Bukkit development techniques.</p>
+      <p align="center">
+        <a href="https://github.com/yukmakoto/MatrixBC/stargazers">
+          <img src="https://img.shields.io/github/stars/yukmakoto/MatrixBC?style=social" alt="Stars" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
