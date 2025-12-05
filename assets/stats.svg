@@ -5,7 +5,7 @@
       <stop offset="100%" style="stop-color:#1E90FF;stop-opacity:1" />
     </linearGradient>
     <style>
-      .label { font-family: sans-serif; font-size: 20px; fill: white; font-weight: bold; }
+      .label { font-family: sans-serif; font-size: 20px; fill: white; font-weight: bold; pointer-events: none; }
       .bar-bg { fill: rgba(255, 255, 255, 0.2); }
       .bar-fill { fill: url(#barGradient); }
       .container { fill: rgba(0, 0, 0, 0.6); stroke: white; stroke-width: 2; }
@@ -18,25 +18,27 @@
   <!-- Title -->
   <text x="80" y="60" fill="#00BFFF" font-family="sans-serif" font-size="28" font-weight="bold">SOCIAL STATS (SKILLS)</text>
 
-  <!-- Skill 1: Java -->
-  <text x="60" y="110" class="label">JAVA (SINCE 2020)</text>
+  <!-- Skill 1: Java (Bars First, Text Last) -->
   <rect x="300" y="90" width="400" height="25" class="bar-bg" transform="skewX(-15)" />
   <rect x="300" y="90" width="380" height="25" class="bar-fill" transform="skewX(-15)">
     <animate attributeName="width" from="0" to="380" dur="1s" fill="freeze" />
   </rect>
-
+  
   <!-- Skill 2: Bukkit -->
-  <text x="60" y="170" class="label">BUKKIT API</text>
   <rect x="300" y="150" width="400" height="25" class="bar-bg" transform="skewX(-15)" />
   <rect x="300" y="150" width="360" height="25" class="bar-fill" transform="skewX(-15)">
     <animate attributeName="width" from="0" to="360" dur="1.2s" fill="freeze" />
   </rect>
 
   <!-- Skill 3: Frontend -->
-  <text x="60" y="230" class="label">FRONTEND</text>
   <rect x="300" y="210" width="400" height="25" class="bar-bg" transform="skewX(-15)" />
   <rect x="300" y="210" width="300" height="25" class="bar-fill" transform="skewX(-15)">
     <animate attributeName="width" from="0" to="300" dur="1.4s" fill="freeze" />
   </rect>
+
+  <!-- LABELS (Rendered on top) -->
+  <text x="50" y="110" class="label">JAVA (SINCE 2020)</text>
+  <text x="50" y="170" class="label">BUKKIT API</text>
+  <text x="50" y="230" class="label">FRONTEND</text>
 
 </svg>
