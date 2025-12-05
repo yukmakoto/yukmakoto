@@ -12,7 +12,7 @@
 
 <br />
 
-## 🌑 INTRO / 自我介绍
+### INTRODUCTION
 
 > *"I've been waiting for this..."*
 
@@ -20,7 +20,7 @@ Hi, I'm **Makoto**. I'm a passionate developer specializing in **Java** and **Mi
 
 ---
 
-## 💻 TECH STACK / 技术栈
+### TECH STACK
 
 <div align="center">
   <img src="assets/stats.svg" width="100%" alt="Stats Display" />
@@ -36,16 +36,20 @@ Hi, I'm **Makoto**. I'm a passionate developer specializing in **Java** and **Mi
 
 ---
 
-## 🌒 PROJECTS / 项目展示
+### PROJECTS
 
 <table width="100%">
   <tr>
     <td width="50%">
-      <h3 align="center">Next Rust Platform</h3>
+      <a href="https://github.com/yukmakoto/next-rust-platform">
+        <h3 align="center">Next Rust Platform</h3>
+      </a>
       <p align="center">A high-performance community platform built with Next.js and Rust backend.</p>
     </td>
     <td width="50%">
-      <h3 align="center">Custom Bukkit Plugins</h3>
+      <a href="#">
+        <h3 align="center">Custom Bukkit Plugins</h3>
+      </a>
       <p align="center">Bespoke server-side plugins enhancing gameplay mechanics and server management.</p>
     </td>
   </tr>
