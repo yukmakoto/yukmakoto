@@ -40,18 +40,7 @@ Hi, I'm **Makoto**. I'm a passionate developer specializing in **Java** and **Mi
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <a href="https://github.com/yukmakoto/next-rust-platform">
-        <p align="center"><strong>Next Rust Platform</strong></p>
-      </a>
-      <p align="center">A high-performance community platform built with Next.js and Rust backend.</p>
-      <p align="center">
-        <a href="https://github.com/yukmakoto/next-rust-platform/stargazers">
-          <img src="https://img.shields.io/github/stars/yukmakoto/next-rust-platform?style=social" alt="Stars" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
+    <td width="100%" align="center">
       <a href="https://github.com/yukmakoto/MatrixBC">
         <p align="center"><strong>MatrixBC</strong></p>
       </a>
